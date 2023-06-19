@@ -1,5 +1,6 @@
 # TaxiNYProjectDE
-Data Engineering Uber Project, from raw data, ETL on MAGE and Google VM to BigQuery and data Visualization on Looker
+Data Engineering NYC Taxi Project, from raw data, ETL on MAGE and Google VM to BigQuery and data Visualization on Looker
+DataBase Info: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
 # DashBoard
 
